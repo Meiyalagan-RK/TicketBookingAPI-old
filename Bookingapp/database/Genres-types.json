@@ -1,0 +1,31 @@
+[
+    {
+        "Genres_id": 1,
+        "Genretype": "Family drama",
+        "content": "Endless Entertainment with your family"
+        
+    },
+    {
+        "Genres_id": 2,
+        "Genretype": "Action",
+        "content": "Endless Entertainment"
+      
+    },
+    {
+        "Genres_id": 3,
+        "Genretype": "Thirller",
+        "content": " busted thiriller Entertainment"
+      
+    },
+    {
+        "Genres_id": 4,
+        "Genretype": "Comic/fantasy",
+        "content": "Laugh at peak"
+      
+    },
+    {
+        "Genres_id": 5,
+        "Genretype": "Crime/mystery",
+        "content": "Endless mystery"
+    }
+]

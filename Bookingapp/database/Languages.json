@@ -1,0 +1,28 @@
+[
+    {
+        "Lang_id": 1,
+        "name": "Tamil"
+       
+      
+    },
+    {
+        "Lang_id": 2,
+        "name": "English"
+     
+    },
+    {
+        "Lang_id": 3,
+        "name": "Telugu"
+      
+    },
+    {
+        "Lang_id": 4,
+        "name": "Hindi"
+       
+    },
+    {
+        "Lang_id": 5,
+        "name": "Malayalam"
+    }
+ 
+]

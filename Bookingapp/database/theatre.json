@@ -1,0 +1,1098 @@
+
+[
+    {
+       "Theatre_id":1,
+        "name" : "PVR Cinema",
+        "city_name" : "Chennai",
+        "state_id": 1,
+        "state_name":"Chennai",
+        "address":"Anna Nagar, Chennai-600008",
+        "2D-Movies":[
+                {
+                    "movie_id":1,
+                    "Lang_id": 1,
+                    "Genres_id": 2,
+                    "moviename": "2.O",
+                    "show time":"10.30 AM",
+                    "movie_price": "120"
+                },
+                {
+                    "movie_id":3,
+                    "Lang_id": 1,
+                    "Genres_id": 1,
+                    "moviename": "Ponniyin selvan-1",
+                    "show time":"12.30 PM",
+                    "movie_price": "120"
+                }],
+
+            "3D-Movies":[
+            {
+                    "movie_id":4,
+                    "Lang_id": 2,
+                    "Genres_id": 4,
+                    "moviename": "Spider-man into the spider verse",
+                    "show time":"3.30 PM",
+                    "movie_price": "120"
+                },
+                {
+                    "movie_id":5,
+                    "Lang_id": 2,
+                    "Genres_id": 1,
+                    "moviename": "Avatar: The Way of Water",
+                    "show time":"6.30 PM",
+                    "movie_price": "120"
+             }]
+                
+    },
+
+    {
+        "Theatre_id":2,
+        "name" : "INOX_LUKE Phoenix Market City",
+        "city_name" : "Velachery",
+        "state_id": 1,
+        "state_name":"Chennai",
+        "address":"Velachery, Chennai-600008",
+        "2D-Movies":[
+                        {
+                            "movie_id":1,
+                            "Lang_id": 1,
+                            "Genres_id": 2,
+                            "moviename": "Thunivu",
+                            "show time":"10.30 AM",
+                            "movie_price": "120"
+                        },
+                        {
+                            "movie_id":3,
+                            "Lang_id": 1,
+                            "Genres_id": 1,
+                            "moviename": "Maveeran",
+                            "show time":"12.30 PM",
+                            "movie_price": "120"
+                        }
+                    ],
+        
+        "3D-Movies":[
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Spider-man into the spider verse",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            }]
+    },
+    
+    {
+        "Theatre_id":3,
+        "name" : "SPI Palazzo",
+        "city_name" : "Vadapalani",
+        "state_id": 1,
+        "state_name":"Chennai",
+        "address":"Vadapalani, Chennai-600008",
+        "2D-Movies":[
+                        {
+                            "movie_id":1,
+                            "Lang_id": 1,
+                            "Genres_id": 2,
+                            "moviename": "Maveeran",
+                            "show time":"10.30 AM",
+                            "movie_price": "120"
+                        },
+                        {
+                            "movie_id":3,
+                            "Lang_id": 1,
+                            "Genres_id": 1,
+                            "moviename": "Por thozi",
+                            "show time":"12.30 PM",
+                            "movie_price": "120"
+                        }],
+        
+        "3D-Movies":[
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Spider-man into the spider verse",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "The Flash",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            }]
+    },
+    
+    {
+        "Theatre_id":4,
+        "name" : "EVP Cinemas",
+        "city_name" : "Chennai",
+        "state_id": 1,
+        "state_name":"Chennai",
+        "address":"EVP Santhosha Nagar, Chennai-600008",
+        "2D-Movies":[
+                        {
+                            "movie_id":1,
+                            "Lang_id": 1,
+                            "Genres_id": 2,
+                            "moviename": "Maveeran",
+                            "show time":"10.30 AM",
+                            "movie_price": "120"
+                        },
+                        {
+                            "movie_id":3,
+                            "Lang_id": 1,
+                            "Genres_id": 1,
+                            "moviename": "Por thozi",
+                            "show time":"12.30 PM",
+                            "movie_price": "120"
+                        }],
+        
+        "3D-Movies":[
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "The Flash",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            }]
+    },
+   
+
+
+
+
+
+
+
+
+    {
+        "Theatre_id":5,
+        "name" : "Casino Talkies A/C",
+        "city_name" : "Kochi",
+        "state_id": 2,
+        "state_name":"Kerala",
+        "address":"Perumbavoor Aluva Road, Kochi, Kerala 683101",
+        "2D-Movies":[
+            {
+                "movie_id":10,
+                "Lang_id": 5,
+                "Genres_id": 1,
+                "moviename": "Drishyam 2",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            }
+
+                     ]
+    },
+
+    {
+        "Theatre_id":6,
+        "name" : "Cinepolis:Centre Square Mall",
+        "city_name" :"Kochi",
+        "state_id": 2,
+        "state_name":"Kerala",
+        "address":"Ernakulam, Kochi, Kerala 682035",
+        "2D-Movies":[
+            {
+                "movie_id":10,
+                "Lang_id": 5,
+                "Genres_id": 1,
+                "moviename": "Drishyam 2",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            }
+
+            ]
+    },
+    
+    {
+        "Theatre_id":7,
+        "name" : "EVM Cinema Fort Kochi",
+        "city_name" : "Kochi",
+        "state_id": 2,
+        "state_name":"Kerala",
+        "address":"Chullickal,Kochi, Kerala 682002",
+        "2D-Movies":[
+            {
+                "movie_id":10,
+                "Lang_id": 5,
+                "Genres_id": 1,
+                "moviename": "Drishyam 2",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":6,
+                "Lang_id": 2,
+                "Genres_id": 5,
+                "moviename": "Joker",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+            ]
+    },
+    
+    {
+        "Theatre_id":8,
+        "name" : "PVR:Lulu",
+        "city_name" : "Kochi",
+        "state_id": 2,
+        "state_name":"Kerala",
+        "address":" 2nd FLoor, Ernakulam Road,Kochi, Kerala 682025",
+        "2D-Movies":[
+            {
+                "movie_id":10,
+                "Lang_id": 5,
+                "Genres_id": 1,
+                "moviename": "Drishyam 2",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":2,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "Thunivu",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":2,
+                "Lang_id": 1,
+                "Genres_id": 1,
+                "moviename": "Ponniyin selvan-1",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+
+            ]
+    },
+   
+
+
+    {
+        "Theatre_id":9,
+        "name" : "PVR Cinema",
+        "city_name" : "Hyderabad",
+        "state_id": 5,
+        "state_name":"Andhra Pradesh",
+        "address":"Secunderabad, Telangana 500076",
+        "2D-Movies":[
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"10.30 AM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "160"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"6.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"9.30 PM",
+                "movie_price": "160"
+            }
+
+
+            ]
+    },
+
+    {
+        "Theatre_id":10,
+        "name" : "INOX",
+        "city_name" :"Hyderabad",
+        "state_id": 5,
+        "state_name":"Andhra Pradesh",
+        "address":"Ashoka One Mall, Kukatpally Y-Junction,Hyderabad, Telangana 500072",
+        "2D-Movies":[
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"10.30 AM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "160"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"6.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"9.30 PM",
+                "movie_price": "160"
+            }
+            ]
+    },
+    
+    {
+        "Theatre_id":11,
+        "name" : "INOX:Sattva Necklace Mall",
+        "city_name" : "Hyderabad",
+        "state_id": 5,
+        "state_name":"Andhra Pradesh",
+        "address":"Sattva Necklace Mall, Kavadiguda Main Road,Hyderabad,Telangana 500080",
+        "2D-Movies":[
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"10.30 AM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "160"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"6.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"9.30 PM",
+                "movie_price": "160"
+            }
+
+            ]
+    },
+    
+    {
+        "Theatre_id":12,
+        "name" : "MovieMax",
+        "city_name" : "Hyderabad",
+        "state_id": 5,
+        "state_name":"Andhra Pradesh",
+        "address":"Secunderabad, Extn - Moula Ali, Secunderabad, Hyderabad, Telangana 500040,",
+        "2D-Movies":[
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"10.30 AM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "160"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"6.30 PM",
+                "movie_price": "160"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"9.30 PM",
+                "movie_price": "160"
+            }
+            ]
+    },
+
+
+
+
+    {
+        "Theatre_id":13,
+        "name" : "Cinepolis:VIP Viviana Mall",
+        "city_name" : "Thane",
+        "state_id": 4,
+        "state_name":"Maharashtra",
+        "address":"Eastern Express Highway, Laxmi Nagar,Thane, Maharashtra 400606",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "200"
+            },
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "200"
+            },
+
+            {
+                "movie_id":11,
+                "Lang_id": 5,
+                "Genres_id": 3,
+                "moviename": "2018",
+                "show time":"3.30 PM",
+                "movie_price": "200"
+            },
+            {
+                "movie_id":9,
+                "Lang_id": 3,
+                "Genres_id": 2,
+                "moviename": "RRR",
+                "show time":"6.30 PM",
+                "movie_price": "200"
+            },
+            {
+                "movie_id":5,
+                "Lang_id": 2,
+                "Genres_id": 1,
+                "moviename": "Avatar: The Way of Water",
+                "show time":"9.30 PM",
+                "movie_price": "200"
+            }
+  
+            ]
+    },
+  
+    {
+        "Theatre_id":14,
+        "name" : "INOX:Insignia",
+        "city_name" :"Thane",
+        "state_id": 4,
+        "state_name":"Maharashtra",
+        "address":"Dokali Pada, Dhokali, Thane West, Thane, Maharashtra 400607",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "200"
+            },
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "200"
+            },
+
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 3,
+                "moviename": "2.O",
+                "show time":"3.30 PM",
+                "movie_price": "200"
+            }],
+
+            "3D-Movies":[
+                    {
+                        "movie_id":3,
+                        "Lang_id": 1,
+                        "Genres_id": 1,
+                        "moviename": "Ponniyin selvan-1",
+                        "show time":"6.30 PM",
+                        "movie_price": "120"
+                    },
+                    {
+                        "movie_id":4,
+                        "Lang_id": 2,
+                        "Genres_id": 4,
+                        "moviename": "Amazing spider-man",
+                        "show time":"9.30 PM",
+                        "movie_price": "120"
+                    }
+                    ]
+    },
+    
+    {
+        "Theatre_id":15,
+        "name" : "MovieMax:Wonder Mall",
+        "city_name" : "Thane",
+        "state_id": 4,
+        "state_name":"Maharashtra",
+        "address":" Ghodbunder Road, Kapur Bawadi Naka, Near Safe Way Motors, Thane, Maharashtra 400601",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":6,
+                "Lang_id": 2,
+                "Genres_id": 5,
+                "moviename": "Joker",
+                "show time":"3.30 PM",
+                "movie_price": "120"
+            }],
+
+            "3D-Movies":[
+                    {
+                        "movie_id":3,
+                        "Lang_id": 1,
+                        "Genres_id": 1,
+                        "moviename": "Ponniyin selvan-1",
+                        "show time":"6.30 PM",
+                        "movie_price": "120"
+                    },
+                    {
+                        "movie_id":4,
+                        "Lang_id": 2,
+                        "Genres_id": 4,
+                        "moviename": "Amazing spider-man",
+                        "show time":"9.30 PM",
+                        "movie_price": "120"
+                    }
+                    ]
+    },
+    
+    {
+        "Theatre_id":16,
+        "name" : "Gold Cinema:Santacruz(W)",
+        "city_name" : "Mumbai",
+        "state_id": 4,
+        "state_name":"Maharashtra",
+        "address":"Milan Subway Road, Santacruz West, Mumbai, Maharashtra 400054",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":3,
+                "Lang_id": 1,
+                "Genres_id": 1,
+                "moviename": "Ponniyin selvan-1",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Amazing spider-man",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+            ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "Theatre_id":17,
+        "name" : "Cinepolis VIP:Lulu Mall",
+        "city_name" :"Bengaluru",
+        "state_id": 3,
+        "state_name":"Karnataka",
+        "address":"Rajajinagar, Bengaluru, Karnataka 560023",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":3,
+                "Lang_id": 1,
+                "Genres_id": 1,
+                "moviename": "Ponniyin selvan-1",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Amazing spider-man",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+            ]
+    },
+
+    {
+        "Theatre_id":18,
+        "name" : "Cinepolis VIP:Binnypet Mall",
+        "city_name" :"Bengaluru",
+        "state_id": 3,
+        "state_name":"Karnataka",
+        "address":"Binneypet, Magadi Road, Bengaluru, Karnataka 560023",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            }],
+
+            "3D-Movies":[
+                    {
+                        "movie_id":3,
+                        "Lang_id": 1,
+                        "Genres_id": 1,
+                        "moviename": "Ponniyin selvan-1",
+                        "show time":"6.30 PM",
+                        "movie_price": "120"
+                    },
+                    {
+                        "movie_id":4,
+                        "Lang_id": 2,
+                        "Genres_id": 4,
+                        "moviename": "Amazing spider-man",
+                        "show time":"9.30 PM",
+                        "movie_price": "120"
+                    }
+                    ]
+    },
+
+    {
+        "Theatre_id":19,
+        "name" : "Gopalan Cinemas:Bannerghatta Road",
+        "city_name" :"Bengaluru",
+        "state_id": 3,
+        "state_name":"Karnataka",
+        "address":" Bannerghatta Road, Opp Shoppers Stop, Bengaluru, Karnataka 560076",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":3,
+                "Lang_id": 1,
+                "Genres_id": 1,
+                "moviename": "Ponniyin selvan-1",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Amazing spider-man",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+            ]
+    },
+
+    {
+        "Theatre_id":20,
+        "name" : "INOX:Brookefield Mall",
+        "city_name" :"Bengaluru",
+        "state_id": 3,
+        "state_name":"Karnataka",
+        "address":"Brookefield Mall, Kundalahalli Main Road, Bengaluru, Karnataka 560037",
+        "2D-Movies":[
+            {
+                "movie_id":7,
+                "Lang_id": 4,
+                "Genres_id": 2,
+                "moviename": "Pathan",
+                "show time":"10.30 AM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":1,
+                "Lang_id": 1,
+                "Genres_id": 2,
+                "moviename": "2.O",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            },
+
+            {
+                "movie_id":8,
+                "Lang_id": 4,
+                "Genres_id": 1,
+                "moviename": "83",
+                "show time":"12.30 PM",
+                "movie_price": "120"
+            }],
+
+    "3D-Movies":[
+            {
+                "movie_id":3,
+                "Lang_id": 1,
+                "Genres_id": 1,
+                "moviename": "Ponniyin selvan-1",
+                "show time":"6.30 PM",
+                "movie_price": "120"
+            },
+            {
+                "movie_id":4,
+                "Lang_id": 2,
+                "Genres_id": 4,
+                "moviename": "Amazing spider-man",
+                "show time":"9.30 PM",
+                "movie_price": "120"
+            }
+            ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]  

@@ -1,0 +1,26 @@
+[
+    {
+        "state name":"Tamilnadu",
+        "state_id":1
+    },
+
+    {
+        "state name":"Kerala",
+        "state_id":2
+    },
+
+    {
+        "state name":"Karnataka",
+        "state_id":3
+    },
+
+    {
+        "state name":"Maharastra",
+        "state_id":4
+    },
+
+    {
+        "state name":"Andhra Pradesh",
+        "state_id":5
+    }
+]

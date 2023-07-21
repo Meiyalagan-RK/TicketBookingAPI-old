@@ -1,0 +1,32 @@
+{
+    "user" : [
+        {
+            
+            "name": "Leanne Graham",
+            "email": "Sincere@april.biz",
+            "password":"Abc@123",
+            "role" : "Admin"
+        },
+        {
+           
+            "name": "Ervin Howell",
+            "email": "Shanna@melissa.tv",
+            "password":"Abc@123",
+            "role" : "Member"
+        },
+        {
+           
+            "name": "Clementine Bauch",
+            "email": "Nathan@yesenia.net",
+            "password":"Abc@123",
+            "role" : "Member"
+        },
+        {
+           
+            "name": "Patricia Lebsack",
+            "email": "Julianne.OConner@kory.org",
+            "password":"Abc@123",
+            "role" : "Member"
+        }
+    ]
+}

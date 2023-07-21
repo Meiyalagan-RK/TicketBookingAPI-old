@@ -1,0 +1,182 @@
+[
+    {
+        "movie_id":1,
+        "Lang_id": 1,
+        "moviename": "2.O",
+        "Genres_id": 2,
+        "description": "When mobiles start flying from people's hands, Dr Vaseegaran and his robot Nila are asked to help. However, due to Pakshi Rajan having a hand in this, the two have to reinstate Chitti to defeat him.",
+        "movie_image": "https://i.pinimg.com/564x/71/38/54/7138549697bd3b9033fcdf660c043afc.jpg",
+        "movie_Format": "3D",
+        "language":"Tamil"
+        
+    },
+    {
+        "movie_id":2,
+        "Lang_id": 1,
+        "moviename": "Thunivu",
+        "Genres_id": 2,
+        "description": "With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.",
+        "movie_image": "https://igimages.gumlet.io/tamil/gallery/movies/thunivu2022/thunivu_second_look2292022m1.jpg?w=600&dpr=1.0",
+        "movie_Format": "2D",
+        "language":"Tamil"
+    },
+    {
+        "movie_id":3,
+        "Lang_id": 1,
+        "Genres_id": 1,
+        "moviename": "Ponniyin selvan-1",
+        "description": "Based on Kalki's novel",
+        "movie_image": "https://www.behindwoods.com/tamil-movies/ponniyin-selvan-1/stills-photos-pictures/ponniyin-selvan-1-stills-photos-pictures-04.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+    },
+    {
+        "movie_id":4,
+        "Lang_id": 2,
+        "moviename": "Spider-man into the spider verse",
+        "Genres_id": 4,
+        "description": "After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse",
+        "movie_image": "https://i.ibb.co/3NP3c6Y/Spider-Man-Into-the-Spider-Verse.jpg",
+        "movie_Format": "3D",
+        "language":"English"
+    },
+    {
+        "movie_id":5,
+        "Lang_id": 2,
+        "moviename": "Avatar: The Way of Water",
+        "Genres_id": 1,
+        "description": "The Way of Water is a 2022 American epic science fiction film directed and produced by James Cameron.",
+        "movie_image": "https://i.pinimg.com/564x/91/1a/2d/911a2db55ff3a1faa44a7e766b9a1b3e.jpg",
+        "movie_Format": "3D",
+        "language":"English"
+    },
+    {
+        "movie_id":6,
+        "Lang_id": 2,
+        "moviename": "Joker",
+        "Genres_id": 5,
+        "description": "With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.",
+        "movie_image": "https://i.pinimg.com/564x/e5/62/33/e5623330a597c3ba4f1a496e8e812d2f.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+    },
+    {
+        "movie_id":7,
+        "Lang_id": 4,
+        "moviename": "Pathan",
+        "Genres_id": 2,
+        "description": "With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.",
+        "movie_image": "https://i.ibb.co/xhhwJsw/Pathaan.jpg",
+        "movie_Format": "2D",
+        "language":"Hindi"
+        
+    },
+    {
+        "movie_id":8,
+        "Lang_id": 4,
+        "moviename": "83",
+        "Genres_id": 1,
+        "description": "Kapil dev and his team face struggles to win the 1983 world cup",
+        "movie_image": "https://i.pinimg.com/564x/44/c4/9e/44c49ec2321da5f2e3a1278db2a3b576.jpg",
+        "movie_Format": "2D",
+        "language":"Hindi"
+    },
+    {
+        "movie_id":9,
+        "Lang_id": 3,
+        "moviename": "RRR",
+        "Genres_id": 2,
+        "description": "RRR is a 2022 Indian Telugu-language epic action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad.",
+        "movie_image": "https://i.pinimg.com/564x/44/c4/9e/44c49ec2321da5f2e3a1278db2a3b576.jpg",
+        "movie_Format": "2D",
+        "language":"Telugu"
+    },
+    {
+        "movie_id":10,
+        "Lang_id": 5,
+        "Genres_id": 1,
+        "moviename": "Drishyam 2",
+        "description": "Seven years after facing traumatic events, the Salgaonkars have moved on with life. However, unforeseen circumstances threaten to bring dark truths to light.",
+        "movie_image": "https://static.toiimg.com/photo/80924792.cms",
+        "movie_Format": "2D",
+        "language":"Malayalam"
+    },
+    {
+        "movie_id":11,
+        "Lang_id": 5,
+        "Genres_id": 3,
+        "moviename": "2018",
+        "description": "People from all walks of life face catastrophic consequences during devastating floods in 2018. The people of Kerala work together to survive the calamity.",
+        "movie_image": "https://th-i.thgim.com/public/entertainment/movies/sz6zlm/article66091644.ece/alternates/FREE_1200/2018%20malayalam%20movie.jpg",
+        "movie_Format": "2D",
+        "language":"Malayalam"
+
+    },
+    {
+        "movie_id":12,
+        "Lang_id": 1,
+        "Genres_id": 2,
+        "moviename": "Jailer",
+        "description": "Jailer is an upcoming Indian Tamil-language action comedy film written and directed by Nelson and produced by Kalanithi Maran of Sun Pictures.",
+        "movie_image": "https://i.ibb.co/cc7BKby/Jailer-Movie-Poster.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+
+    },
+    {
+        "movie_id":13,
+        "Lang_id": 1,
+        "Genres_id": 5,
+        "moviename": "Por thozil",
+        "description": "Por Thozhil- Cliff edge and fast paced crime investigative thriller. It pounds back heart at rapid pace with depth in the story and crisp editing.",
+        "movie_image": "https://i.ibb.co/pJ55yJ0/Por-Thozhil.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+
+    },
+    {
+        "movie_id":14,
+        "Lang_id": 1,
+        "Genres_id": 2,
+        "moviename": "Maveeran",
+        "description": "Maaveeran: Directed by Madonne Ashwin. With Sivakarthikeyan, Aditi Shankar, Mysskin, Yogi Babu. A cowardly cartoonist starts being 'controlled' by a cartoon",
+        "movie_image": "https://i.ibb.co/Mfrzcfw/Sivakarthikeyan.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+
+    },
+    {
+        "movie_id":15,
+        "Lang_id": 2,
+        "Genres_id": 2,
+        "moviename": "The Flash",
+        "description": "The Flash is a 2023 American superhero film based on the DC character of the same name. Produced by Warner Bros. Pictures, DC Studios",
+        "movie_image": "https://i.ibb.co/3dfNQYc/Flash.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+
+    },
+    {
+        "movie_id":16,
+        "Lang_id": 3,
+        "Genres_id": 2,
+        "moviename": "Salaar",
+        "description": "Ceasefire is an upcoming Indian Telugu-language action thriller film written and directed by Prashanth Neel",
+        "movie_image": "https://i.ibb.co/k17YDxs/download-4.jpg",
+        "movie_Format": "2D",
+        "language":"Telugu"
+
+    },
+    {
+        "movie_id":17,
+        "Lang_id": 4,
+        "Genres_id": 2,
+        "moviename": "Jawan",
+        "description": "Jawan ( transl. Soldier) is an upcoming Indian Hindi-language action thriller film co-written and directed by Atlee, in his first Hindi film.",
+        "movie_image": "https://i.ibb.co/RPzK5st/download-3.jpg",
+        "movie_Format": "2D",
+        "language":"Hindi"
+
+    }
+
+]

@@ -1,0 +1,53 @@
+[
+    {
+      
+        "name": "Giri",
+        "email": "giriii@gmail.com",
+        "address": "No. 8 Bazaar Lane , Mylapore",
+        "phone": 768768686,
+        "cost": 787,
+        "movie":[{
+            "movie_id":1
+        }],
+        "status": "Pending"
+    },
+    {
+
+        "name": "Vimal",
+        "email": "Vimall@gmail.com",
+        "address": "Raghavendra Street, Srinivasa Nagar",
+        "phone": 768768686,
+        "cost": 124,
+        "movie":[{
+            "movie_id":1
+        }],
+
+        "status": "Pending"
+    },
+    {
+      
+        "name": "Dhoni",
+        "email": "Dhonnii@gmail.com",
+        "address": "B.20 II Floor, I.H.F.D. Nagar",
+        "phone": 768768686,
+        "cost": 344,
+        "movie":[{
+            "movie_id":1
+        }],
+   
+        "status": "Pending"
+    },
+    {
+       
+        "name": "Sachin",
+        "email": "Sachinnn@gmail.com",
+        "address": "No. 1, New Bangaru Naidu Colony",
+        "phone": 97876733,
+        "cost": 431,
+        "movie":[{
+            "movie_id":1
+        }],
+ 
+        "status": "Pending"
+    }
+]
