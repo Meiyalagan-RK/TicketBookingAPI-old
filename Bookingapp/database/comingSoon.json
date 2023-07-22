@@ -1,0 +1,86 @@
+[
+    {
+        "movie_id":1,
+        "Lang_id": 3,
+        "Genres_id": 2,
+        "moviename": "Salaar",
+        "description": "Ceasefire is an upcoming Indian Telugu-language action thriller film written and directed by Prashanth Neel",
+        "movie_image": "https://i.pinimg.com/564x/32/f6/13/32f613a8362a0642524775f81b1ec5fb.jpg",
+        "movie_Format": "2D",
+        "language":"Telugu"
+
+    },
+    {
+        "movie_id":2,
+        "Lang_id": 4,
+        "Genres_id": 2,
+        "moviename": "Jawan",
+        "description": "Jawan ( transl. Soldier) is an upcoming Indian Hindi-language action thriller film co-written and directed by Atlee, in his first Hindi film.",
+        "movie_image": "https://i.pinimg.com/564x/89/c6/38/89c638a7bba10db0704c5dd32f0c48d3.jpg",
+        "movie_Format": "2D",
+        "language":"Hindi"
+
+    },
+    {
+        "movie_id":3,
+        "Lang_id": 2,
+        "Genres_id": 4,
+        "moviename": "OppenHeimer",
+        "description": "Oppenheimer and a team of scientists spend years developing and designing the atomic bomb.",
+        "movie_image": "https://i.pinimg.com/564x/28/ab/62/28ab62860a09fdd2c2bb4b0e7b40e85e.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+    },
+    {
+        "movie_id":4,
+        "Lang_id": 2,
+        "Genres_id": 3,
+        "moviename": "Meg 2: The Trench",
+        "description": "Directed by Ben Wheatley. With Jason Statham, Sienna Guillory, Cliff Curtis, Skyler Samuels. Plot unknown",
+        "movie_image": "https://i.pinimg.com/564x/79/d7/ee/79d7ee9a1385ee201b6ea1c0cfb6a120.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+    },
+    {
+        "movie_id":5,
+        "Lang_id": 2,
+        "Genres_id": 4,
+        "moviename": "The Trench Marvels",
+        "description": "Directed by Ben Wheatley. With Jason Statham, Sienna Guillory, Cliff Curtis, Skyler Samuels. Plot unknown",
+        "movie_image": "https://i.pinimg.com/564x/55/d1/59/55d15963c40b54e3c60d911ad58013e3.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+    },
+    {
+        "movie_id":6,
+        "Lang_id": 2,
+        "Genres_id": 4,
+        "moviename": "Kraven",
+        "description": "Directed by Ben Wheatley. With Jason Statham, Sienna Guillory, Cliff Curtis, Skyler Samuels. Plot unknown",
+        "movie_image": "https://i.pinimg.com/564x/01/9b/57/019b57479af9813a65913d975ec5dc63.jpg",
+        "movie_Format": "2D",
+        "language":"English"
+    },
+    {
+        "movie_id":7,
+        "Lang_id": 1,
+        "Genres_id": 2,
+        "moviename": "Jailer",
+        "description": "Jailer is an upcoming Indian Tamil-language action comedy film written and directed by Nelson and produced by Kalanithi Maran of Sun Pictures.",
+        "movie_image": "https://i.pinimg.com/564x/0f/e6/d6/0fe6d6678b8a279647d2ada3dd35f840.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+
+    },
+    {
+        "movie_id":8,
+        "Lang_id": 1,
+        "Genres_id": 2,
+        "moviename": "Captain Miller",
+        "description": "Captain Miller is an upcoming Indian Tamil-language action comedy film written and directed by Nelson and produced by Kalanithi Maran of Sun Pictures.",
+        "movie_image": "https://i.pinimg.com/564x/4b/20/7d/4b207dafd76a2f63320518301f646612.jpg",
+        "movie_Format": "2D",
+        "language":"Tamil"
+
+    }
+]

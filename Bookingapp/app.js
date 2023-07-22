@@ -59,6 +59,26 @@ app.get("/movies",async function(req,res){
     console.log(output)
 });
 
+app.get("/newMovies",async function(req,res){
+    let query ={};
+    if(req.query.GenresId){
+        query={Genres_id:Number(req.query.GenresId)}
+    }
+   else if(req.query.LanguageId){
+        query={Lang_id:Number(req.query.LanguageId)}
+   }
+   else if(req.query.MovieId){
+        query={movie_id:Number(req.query.MovieId)}
+   }
+    else{
+        let query ={};
+    }
+    let collection ="ComingSoon"
+    let output = await getData(collection,query)
+    res.send(output)
+    console.log(output)
+});
+
 app.get("/theatre",async function(req,res){
     let query ={};
 
@@ -72,13 +92,13 @@ app.get("/theatre",async function(req,res){
     let collection ="Theatre"
     let output = await getData(collection,query)
     res.send(output)
-    console.log(output)
     
-    console.log()
+    
+  
 });
 
 
-// app.get('/filter/:movieId', async(req,res) => {
+// app.get('/filter/theatre:movieId', async(req,res) => {
 //     let movieId = Number(req.params.movieId);
 //     let LangId = Number(req.query.LangId)
 //     let lcost = Number(req.query.lcost)
@@ -90,18 +110,19 @@ app.get("/theatre",async function(req,res){
 //         }
 //     }
 
-//     // if(LangId){
-//     //     query = {
-//     //         "2D-Movies.movie_id":movieId,
-//     //         "3D-Movies.movie_id":LangId
-//     //     }
-//     // } 
+//     if(LangId){
+//         query = {
+//             "2D-Movies.movie_id":movieId,
+//             "3D-Movies.movie_id":LangId
+//         }
+//     } 
 //     else{
 //         query = {}
 //     }
-//     let collection = "Theatre";
+//     let collection ="Theatre";
 //     let output = await getData(collection,query);
 //     res.send(output)
+//     console.log(LangId)
 // })
 
 // details

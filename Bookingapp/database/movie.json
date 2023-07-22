@@ -115,10 +115,10 @@
     {
         "movie_id":12,
         "Lang_id": 1,
-        "Genres_id": 2,
-        "moviename": "Jailer",
-        "description": "Jailer is an upcoming Indian Tamil-language action comedy film written and directed by Nelson and produced by Kalanithi Maran of Sun Pictures.",
-        "movie_image": "https://i.ibb.co/cc7BKby/Jailer-Movie-Poster.jpg",
+        "Genres_id": 5,
+        "moviename": "Por thozil",
+        "description": "Por Thozhil- Cliff edge and fast paced crime investigative thriller. It pounds back heart at rapid pace with depth in the story and crisp editing.",
+        "movie_image": "https://i.pinimg.com/564x/fb/94/75/fb94754e2e55667e21c9d36183eeb89b.jpg",
         "movie_Format": "2D",
         "language":"Tamil"
 
@@ -126,56 +126,45 @@
     {
         "movie_id":13,
         "Lang_id": 1,
-        "Genres_id": 5,
-        "moviename": "Por thozil",
-        "description": "Por Thozhil- Cliff edge and fast paced crime investigative thriller. It pounds back heart at rapid pace with depth in the story and crisp editing.",
-        "movie_image": "https://i.ibb.co/pJ55yJ0/Por-Thozhil.jpg",
+        "Genres_id": 2,
+        "moviename": "Maveeran",
+        "description": "Maaveeran: Directed by Madonne Ashwin. With Sivakarthikeyan, Aditi Shankar, Mysskin, Yogi Babu. A cowardly cartoonist starts being 'controlled' by a cartoon",
+        "movie_image": "https://i.pinimg.com/564x/1e/db/32/1edb32d76c015aeb76dbf5e0f9d48b6d.jpg",
         "movie_Format": "2D",
         "language":"Tamil"
 
     },
     {
         "movie_id":14,
-        "Lang_id": 1,
+        "Lang_id": 2,
         "Genres_id": 2,
-        "moviename": "Maveeran",
-        "description": "Maaveeran: Directed by Madonne Ashwin. With Sivakarthikeyan, Aditi Shankar, Mysskin, Yogi Babu. A cowardly cartoonist starts being 'controlled' by a cartoon",
-        "movie_image": "https://i.ibb.co/Mfrzcfw/Sivakarthikeyan.jpg",
+        "moviename": "The Flash",
+        "description": "The Flash is a 2023 American superhero film based on the DC character of the same name. Produced by Warner Bros. Pictures, DC Studios",
+        "movie_image": "https://i.pinimg.com/564x/85/ae/77/85ae77b56085ea73c502c33c09c71d86.jpg",
         "movie_Format": "2D",
-        "language":"Tamil"
+        "language":"English"
 
     },
     {
         "movie_id":15,
         "Lang_id": 2,
-        "Genres_id": 2,
-        "moviename": "The Flash",
+        "Genres_id": 4,
+        "moviename": "Wakanda Forever",
         "description": "The Flash is a 2023 American superhero film based on the DC character of the same name. Produced by Warner Bros. Pictures, DC Studios",
-        "movie_image": "https://i.ibb.co/3dfNQYc/Flash.jpg",
+        "movie_image": "https://i.pinimg.com/564x/77/e7/bd/77e7bddb1cf56b7ebe1054c1b33cf329.jpg",
         "movie_Format": "2D",
         "language":"English"
 
     },
     {
         "movie_id":16,
-        "Lang_id": 3,
-        "Genres_id": 2,
-        "moviename": "Salaar",
-        "description": "Ceasefire is an upcoming Indian Telugu-language action thriller film written and directed by Prashanth Neel",
-        "movie_image": "https://i.ibb.co/k17YDxs/download-4.jpg",
+        "Lang_id": 2,
+        "Genres_id": 4,
+        "moviename": "Transformers 2023",
+        "description": "Rise of Beast",
+        "movie_image": "https://i.pinimg.com/564x/ef/43/0f/ef430fe176d2db75878ba3d7bc6ad53b.jpg",
         "movie_Format": "2D",
-        "language":"Telugu"
-
-    },
-    {
-        "movie_id":17,
-        "Lang_id": 4,
-        "Genres_id": 2,
-        "moviename": "Jawan",
-        "description": "Jawan ( transl. Soldier) is an upcoming Indian Hindi-language action thriller film co-written and directed by Atlee, in his first Hindi film.",
-        "movie_image": "https://i.ibb.co/RPzK5st/download-3.jpg",
-        "movie_Format": "2D",
-        "language":"Hindi"
+        "language":"English"
 
     }
 
